@@ -1,6 +1,6 @@
 
 
-### Olá! Eu sou o Patrick Lavigne, formado em ciência da computação, Dio Expert e apaixonado pelo mundo da tecnologia. 🤙
+### Olá! Eu sou o Patrick Lavigne, formado em ciência da computação, pós-graduando em Geotecnologia, Dio Expert e apaixonado pelo mundo da tecnologia. 🤙
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-lavigne-ds/?original_referer=https%3A%2F%2Fwww.google.com%2F)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](
 https://www.instagram.com/patricklavignee/)
